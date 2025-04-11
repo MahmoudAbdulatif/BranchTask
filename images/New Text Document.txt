@@ -1,0 +1,1 @@
+echo "\n## Bonus: Adding an Image\n![Screenshot](images/orange.png)" >> README.md
