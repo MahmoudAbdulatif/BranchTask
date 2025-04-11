@@ -9,3 +9,4 @@
 
 
 >>>>>>> c0fd5755bba553ea51024053c5c2c7f93e0b33a3
+"\n## Bonus: Adding an Image\n![Screenshot](images/orange.png)" 
